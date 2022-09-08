@@ -4,9 +4,9 @@ I have created this repository to add all the my DevOps presentations around Dev
 ## 📆Going to
 There are several conferences that I would like to join and bring my experience, some of them, I will list below. Keep in touch with me to check and participate on those conferences journey.
 
-- **DevOps Days**
+- **DevOps Days**:
 Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. 
-- **TDC**
+- **TDC**:
 TDC is the biggest event related to software development in Brazil connecting meetup and event organizers, speakers, companies and sponsors in a single platform, empowering the local ecosystem of each region where it is held.
 
 ## 🚀About me
