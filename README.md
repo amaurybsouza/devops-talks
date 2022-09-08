@@ -1,5 +1,5 @@
 ## DevOps Talks
-I have created this repository to add all the my DevOps presentations around DevOps tool, like Ansible, Terraform, Kubernetes and more.
+I have created this repository to add all the my DevOps presentations around DevOps tool, like Ansible, Terraform, Kubernetes and more. many of those talks I have presented on my DevOps journey, communities, conferences, companies. I like to show the daily routines for each tool, for example, how you can start using Ansible, run the first playbook, and how you can use the best practices.
 
 ## 🚀About me
 I started my career as a Support Analyst, and I worked for several years configuring and maintaining bare-metal Linux servers. Then I’ve closely followed the arrival of virtualization in servers and later the containerization process. Over the years, I acquired new skills to work as a SysAdmin starting with Linux and Proxmox/Ovirt, and then Red Hat flavors like Satellite, Ansible, Red Hat Linux Enterprise. 
