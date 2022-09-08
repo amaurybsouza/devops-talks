@@ -1,6 +1,14 @@
 ## DevOps Talks
 I have created this repository to add all the my DevOps presentations around DevOps tool, like Ansible, Terraform, Kubernetes and more. many of those talks I have presented on my DevOps journey, communities, conferences, companies. I like to show the daily routines for each tool, for example, how you can start using Ansible, run the first playbook, and how you can use the best practices.
 
+## 📆Going to
+There are several conferences that I would like to join and bring my experience, some of them, I will list below. Keep in touch with me to check and participate on those conferences journey.
+
+- **DevOps Days**
+Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. 
+- **TDC**
+TDC is the biggest event related to software development in Brazil connecting meetup and event organizers, speakers, companies and sponsors in a single platform, empowering the local ecosystem of each region where it is held.
+
 ## 🚀About me
 I started my career as a Support Analyst, and I worked for several years configuring and maintaining bare-metal Linux servers. Then I’ve closely followed the arrival of virtualization in servers and later the containerization process. Over the years, I acquired new skills to work as a SysAdmin starting with Linux and Proxmox/Ovirt, and then Red Hat flavors like Satellite, Ansible, Red Hat Linux Enterprise. 
 
