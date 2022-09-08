@@ -4,10 +4,10 @@ I have created this repository to add all the my DevOps presentations around Dev
 ## 📆Going to
 There are several conferences that I would like to join and bring my experience, some of them, I will list below. Keep in touch with me to check and participate on those conferences journey.
 
-- **DevOps Days**:
-Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. 
-- **TDC**:
-TDC is the biggest event related to software development in Brazil connecting meetup and event organizers, speakers, companies and sponsors in a single platform, empowering the local ecosystem of each region where it is held.
+- **DevOps Days**: Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. 
+- **TDC**: TDC is the biggest event related to software development in Brazil connecting meetup and event organizers, speakers, companies and sponsors in a single platform, empowering the local ecosystem of each region where it is held.
+- **Kubecon**: KubeCon is the de-facto official Kubernetes developer and user conference. For those of you not familiar with Kubernetes (also referred to as k8s), the open-source system automates the deployment, scaling, and management of containerized applications. 
+- **HashiTalks**: A virtual event for the HashiCorp community in Brazil.
 
 ## 🚀About me
 I started my career as a Support Analyst, and I worked for several years configuring and maintaining bare-metal Linux servers. Then I’ve closely followed the arrival of virtualization in servers and later the containerization process. Over the years, I acquired new skills to work as a SysAdmin starting with Linux and Proxmox/Ovirt, and then Red Hat flavors like Satellite, Ansible, Red Hat Linux Enterprise. 
