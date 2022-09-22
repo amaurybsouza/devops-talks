@@ -1,5 +1,5 @@
 ## DevOps Talks
-I have created this repository to add all the my DevOps presentations around DevOps tool, like Ansible, Terraform, Kubernetes and more. many of those talks I have presented on my DevOps journey, communities, conferences, companies. I like to show the daily routines for each tool, for example, how you can start using Ansible, run the first playbook, and how you can use the best practices.a
+I have created this repository to add all the my DevOps presentations around DevOps tool, like Ansible, Terraform, Kubernetes and more. many of those talks I have presented on my DevOps journey, communities, conferences, companies. I like to show the daily routines for each tool, for example, how you can start using Ansible, run the first playbook, and how you can use the best practices.ab
 
 ## 📆Going to
 There are several conferences that I would like to join and bring my experience, some of them, I will list below. Keep in touch with me to check and participate on those conferences journey.
